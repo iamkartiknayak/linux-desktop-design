@@ -32,7 +32,10 @@ flutter run
 ```
 ### Screenshots
 
-<img src="./screenshots/image.png" alt="Example Image" width="250">&nbsp;&nbsp;&nbsp;
+<img src="./screenshots/image.png" alt="Example Image" width="800">&nbsp;&nbsp;&nbsp;
+
+![Example Video](./screenshots/sample.mp4)
+
 
 <video src="./screenshots/sample.mp4" alt="Example Image" width="250">&nbsp;&nbsp;&nbsp;
 
