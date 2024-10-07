@@ -12,11 +12,11 @@ This project is a design concept of the Linux using Flutter, a popular cross-pla
 ### Installation
 #### Clone the repository using the following command:
 ```bash    
-git clone https://github.com/iamkartiknayak/Flutter_Linux_Desktop_UI_Conecpt.git
+git clone https://github.com/iamkartiknayak/linux-desktop-design.git
 ```
 #### Rename the project directory before running flutter commands
 ```bash
-mv Flutter_Linux_Desktop_UI_Conecpt desktop_ui
+mv linux-desktop-design desktop_ui
 ```
 #### Navigate to the project directory:
 ```bash 
